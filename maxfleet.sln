@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxfleet", "maxfleet\maxfleet.csproj", "{137A03E8-0E37-429F-B5B2-BCB6746FE4DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxfleet.Tests", "maxfleet.Tests\maxfleet.Tests.csproj", "{5C173663-55CB-4979-9DCD-02220D90C027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137A03E8-0E37-429F-B5B2-BCB6746FE4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137A03E8-0E37-429F-B5B2-BCB6746FE4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137A03E8-0E37-429F-B5B2-BCB6746FE4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137A03E8-0E37-429F-B5B2-BCB6746FE4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C173663-55CB-4979-9DCD-02220D90C027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C173663-55CB-4979-9DCD-02220D90C027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C173663-55CB-4979-9DCD-02220D90C027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C173663-55CB-4979-9DCD-02220D90C027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
